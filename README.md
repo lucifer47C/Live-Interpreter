@@ -38,7 +38,7 @@ It offers two modes:
 - Syntax highlighting for better readability.
 
 ## Live Demo
-[Click here](https://#/) to try it out.
+[Click here](https://lucifer47c.github.io/Live-Interpreter/) to try it out.
 
 ## Thank You
 Suggestions and contributions are always welcome. Feel free to explore, use, and improve the project!
